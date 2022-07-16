@@ -1,8 +1,8 @@
 name: 🐛Bug Report
 description: File a bug report here
 title: "[BUG]: "
-labels: ["Bug", "Needs triage"]
-assignees: [""]
+labels: ["Bug, Needs triage"]
+assignees: ["irvinm"]
 body:
   - type: markdown
     attributes:
