@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussions
+    about: General discussions and questions about this project
+    url: https://github.com/irvinm/Issue-Template/discussions
